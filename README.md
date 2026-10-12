@@ -30,3 +30,5 @@ HTML, CSS, JavaScript, Git and GitHub.
 
 Four developers collaborate using Git feature branches.
 
+Feature completed: Admins can manage college event information.
+
