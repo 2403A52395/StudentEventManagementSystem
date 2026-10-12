@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Event Management System</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+    <h1>Student Event Management System</h1>
+    <p>College Events Portal</p>
+</header>
+
+<nav>
+    <a href="#events">Events</a>
+    <a href="#register">Register</a>
+    <a href="#admin">Admin</a>
+</nav>
+
+<section id="events">
+    <h2>Upcoming Events</h2>
+    <div id="eventList"></div>
+</section>
+
+<section id="register">
+    <h2>Event Registration</h2>
+    <input type="text" id="studentName" placeholder="Enter Student Name">
+    <button onclick="registerEvent()">Register</button>
+    <p id="message"></p>
+</section>
+
+<section id="admin">
+    <h2>Event Management</h2>
+    <input type="text" id="eventName" placeholder="Enter New Event">
+    <button onclick="addEvent()">Add Event</button>
+</section>
+
+<script src="js/script.js"></script>
+</body>
+</html>
