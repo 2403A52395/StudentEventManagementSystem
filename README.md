@@ -32,3 +32,5 @@ Four developers collaborate using Git feature branches.
 
 Feature completed: Students can register for college events.
 
+Project Status: Registration Completed
+
