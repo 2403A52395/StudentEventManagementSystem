@@ -30,3 +30,5 @@ HTML, CSS, JavaScript, Git and GitHub.
 
 Four developers collaborate using Git feature branches.
 
+Feature completed: Event listing allows students to view available college events.
+
