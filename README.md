@@ -30,8 +30,13 @@ HTML, CSS, JavaScript, Git and GitHub.
 
 Four developers collaborate using Git feature branches.
 
+<<<<<<< HEAD
 Feature completed: Event listing allows students to view available college events.
 
 Feature completed: Students can register for college events.
 
-Project Status: Event Listing and Registration Completed
+Feature completed: Admins can manage college event information.
+
+Project Status: Event Listing, Registration, and Event Management Completed
+
+>>>>>>> feature/event-management
