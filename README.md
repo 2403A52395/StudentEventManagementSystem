@@ -32,5 +32,6 @@ Four developers collaborate using Git feature branches.
 
 Feature completed: Event listing allows students to view available college events.
 
-Project Status: Event Listing Completed
+Feature completed: Students can register for college events.
 
+Project Status: Event Listing and Registration Completed
